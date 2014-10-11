@@ -1,0 +1,25 @@
+{
+  "name": "fb-sdk",
+  "version": "0.0.1",
+  "homepage": "https://github.com/buttercoin/fb-sdk",
+  "authors": [
+    "matthis@buttercoin.com"
+  ],
+  "description": "CSP Friendly Facebook SDK",
+  "main": "fb-sdk.js",
+  "keywords": [
+    "buttercoin",
+    "csp",
+    "friendly",
+    "facebook",
+    "sdk"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
